@@ -1,0 +1,10 @@
+{
+  "name": "myno",
+  "version": "1.2021",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "discord": "^0.8.2"
+  }
+}
