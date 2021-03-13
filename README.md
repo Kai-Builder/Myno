@@ -1,7 +1,7 @@
-# Myno Moderation bot
+# Lambda Moderation bot
 (Take this bot as a light joke, Not a serious bot!!)
 
-Myno
+Lambda
 
 ## Builtins
 - Verification system
@@ -15,4 +15,4 @@ Myno
 ### Debug
 To set up a local debugger session for your extensions, Run the 
 
-The Myno DevServer Toolchain was built to debug myno Mods.
+The Lambda DevServer Toolchain was built to debug myno Mods.
